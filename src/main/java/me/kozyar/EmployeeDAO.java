@@ -13,10 +13,10 @@ public interface EmployeeDAO {
     // получение списка всех объектов
     List<Employee> readAll();
 
-    // изменение объекта по id
-    void updateEmployeeById(int id, String lastName, int city);
+    // изменение объекта
+    void updateEmployee(Employee employee);
 
-    // удаление оюъекта по id
-    void deleteById(int id);
+    // удаление оюъекта
+    void delete(Employee employee);
 
 }
