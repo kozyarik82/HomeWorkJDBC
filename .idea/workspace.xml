@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2af88155-9477-42c3-87aa-0101cc17efc0" name="Changes" comment="third commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/kozyar/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/kozyar/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +83,7 @@
       <updated>1677718879935</updated>
       <workItem from="1677718882257" duration="1184000" />
       <workItem from="1677720715391" duration="11823000" />
-      <workItem from="1678738111135" duration="9979000" />
+      <workItem from="1678738111135" duration="12886000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1677718916109</created>
@@ -113,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678748466512</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="third commit">
+      <created>1678751423239</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678751423239</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +149,10 @@
         <breakpoint type="java-exception">
           <properties class="org.postgresql.util.PSQLException" package="org.postgresql.util" />
           <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
